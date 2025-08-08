@@ -57,4 +57,3 @@ I enjoy solving problems, working with teams, and getting things done well.
 
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/maksymilian-pasiecki/)
-- [Email](makspasiecki@gmail.com)
