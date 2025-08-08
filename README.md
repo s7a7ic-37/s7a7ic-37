@@ -1,9 +1,7 @@
 # Hi, I'm Maks 👋
 
-I'm an aspiring **Full-Stack Developer** with a passion for building clean, functional, and user-friendly applications.  
-Currently upskilling in **PHP, Vue.js, and MySQL** to complement my experience in **JavaScript, HTML/CSS, React, and PostgreSQL**.
-
-💡 I enjoy problem-solving, collaborating in Agile teams, and finding practical solutions to complex challenges.
+I’m an aspiring Full-Stack Developer who loves building clean, practical, and easy-to-use applications.
+💡 I enjoy solving problems, working with teams, and getting things done well.
 
 ---
 
@@ -58,5 +56,5 @@ Currently upskilling in **PHP, Vue.js, and MySQL** to complement my experience i
 ---
 
 ## 🤝 Let's Connect
-- **LinkedIn:** [https://www.linkedin.com/in/maksymilian-pasiecki/]  
-- **Email:** [makspasiecki@gmail.com]  
+- [LinkedIn](https://www.linkedin.com/in/maksymilian-pasiecki/)
+- [Email](makspasiecki@gmail.com)
