@@ -52,8 +52,3 @@ I enjoy solving problems, working with teams, and getting things done well.
 - PHP OOP concepts  
 - Vue.js components & state management  
 - MySQL queries & optimisation
-
----
-
-## 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/maksymilian-pasiecki/)
