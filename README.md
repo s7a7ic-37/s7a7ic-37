@@ -45,9 +45,3 @@ I enjoy solving problems, working with teams, and getting things done well.
 - **[Pure News](https://github.com/s7a7ic-37/pure-news)** – A clean news reader web app built with HTML, CSS, and JavaScript  
 - **[Pure News API](https://github.com/s7a7ic-37/pure-news-api)** – A lightweight REST API for delivering news data in JSON format
 - **[Ready, Jet Set, Go!](https://travel-planner-chi.vercel.app)** – Group travel planner using Next.js, TypeScript and Firebase (bootcamp final project)
-
----
-
-## 📈 Currently Learning
-- PHP OOP concepts  
-- Vue.js components & state management  
