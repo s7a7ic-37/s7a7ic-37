@@ -4,6 +4,10 @@ I’m a Full-Stack Developer who loves building clean, practical, and easy-to-us
 
 I enjoy solving problems, working with teams, and getting things done well.
 
+I’m also developing my Python and machine learning skills through practical data and forecasting projects.
+
+**[Portfolio](https://portfolio.artemislab.co.uk/)**
+
 ---
 
 ## 🛠 Tech Stack
@@ -34,6 +38,15 @@ I enjoy solving problems, working with teams, and getting things done well.
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
+**Data & machine learning:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-298A08?style=flat)
+![Altair](https://img.shields.io/badge/Altair-1F77B4?style=flat)
+
 **Tools:**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -46,6 +59,7 @@ I enjoy solving problems, working with teams, and getting things done well.
 
 ## 📂 Featured Projects
 
-- **[Pure News](https://github.com/s7a7ic-37/pure-news)** – A React news discussion app with article filters, voting and comments
-- **[Pure News API](https://github.com/s7a7ic-37/pure-news-api)** – A lightweight REST API for delivering news data in JSON format
-- **[Ready, Jet Set, Go!](https://travel.artemislab.co.uk/demo/)** – Group travel planner using Next.js, TypeScript and Firebase (bootcamp final project; demo in my personal fork)
+- **[Pure News](https://news.artemislab.co.uk/)** – News discussion app with filters, voting and comments. React, Express and PostgreSQL. [Frontend](https://github.com/s7a7ic-37/pure-news) · [API](https://github.com/s7a7ic-37/pure-news-api)
+- **[OpsLens](https://opslens.artemislab.co.uk/)** – Retail demand analysis with DuckDB and scikit-learn, comparing models against simple baselines. [Source](https://github.com/s7a7ic-37/ops-lens)
+- **[Grid Demand Lab](https://grid.artemislab.co.uk/)** – Live GB electricity demand forecasting with Python, LightGBM and NESO data. [Source](https://github.com/s7a7ic-37/grid-demand-lab)
+- **[Ready, Jet Set, Go!](https://travel.artemislab.co.uk/demo/)** – Team travel planner using Next.js, TypeScript and Firebase. [Source and team credit](https://github.com/s7a7ic-37/travel-planner)
