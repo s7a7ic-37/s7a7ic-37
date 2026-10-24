@@ -48,4 +48,4 @@ I enjoy solving problems, working with teams, and getting things done well.
 
 - **[Pure News](https://github.com/s7a7ic-37/pure-news)** – A React news discussion app with article filters, voting and comments
 - **[Pure News API](https://github.com/s7a7ic-37/pure-news-api)** – A lightweight REST API for delivering news data in JSON format
-- **[Ready, Jet Set, Go!](https://travel-planner-demo.mpasiecki.workers.dev/demo/)** – Group travel planner using Next.js, TypeScript and Firebase (bootcamp final project; demo in my personal fork)
+- **[Ready, Jet Set, Go!](https://travel.artemislab.co.uk/demo/)** – Group travel planner using Next.js, TypeScript and Firebase (bootcamp final project; demo in my personal fork)
