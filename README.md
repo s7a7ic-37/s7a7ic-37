@@ -24,6 +24,8 @@ I’m also developing my Python and machine learning skills through practical da
 
 **Backend:**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -49,6 +51,9 @@ I’m also developing my Python and machine learning skills through practical da
 
 **Tools:**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
@@ -59,7 +64,9 @@ I’m also developing my Python and machine learning skills through practical da
 
 ## 📂 Featured Projects
 
+- **[Runbook Desk](https://runbook.artemislab.co.uk/)** – Support-case drafts with cited runbooks, PostgreSQL history and human review. FastAPI and React/TypeScript; the public demo uses labelled examples with live LLM calls paused. [Source](https://github.com/s7a7ic-37/runbook-desk)
+
 - **[Pure News](https://news.artemislab.co.uk/)** – News discussion app with filters, voting and comments. React, Express and PostgreSQL. [Frontend](https://github.com/s7a7ic-37/pure-news) · [API](https://github.com/s7a7ic-37/pure-news-api)
-- **[OpsLens](https://opslens.artemislab.co.uk/)** – Retail demand analysis with DuckDB and scikit-learn, comparing models against simple baselines. [Source](https://github.com/s7a7ic-37/ops-lens)
 - **[Grid Demand Lab](https://grid.artemislab.co.uk/)** – Live GB electricity demand forecasting with Python, LightGBM and NESO data. [Source](https://github.com/s7a7ic-37/grid-demand-lab)
+- **[OpsLens](https://opslens.artemislab.co.uk/)** – Retail demand analysis with DuckDB and scikit-learn, comparing models against simple baselines. [Source](https://github.com/s7a7ic-37/ops-lens)
 - **[Ready, Jet Set, Go!](https://travel.artemislab.co.uk/demo/)** – Team travel planner using Next.js, TypeScript and Firebase. [Source and team credit](https://github.com/s7a7ic-37/travel-planner)
